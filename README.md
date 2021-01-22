@@ -2,10 +2,10 @@
  
 ### CRUD for creating Tasks using json server
 
-#### npm install
+``` npm install ```
 
 ### Start React Development Server
-#### npm start
+``` npm start ```
 
 ### Start Json Server
-#### npm run server
+``` npm run server ```
